@@ -1,12 +1,1 @@
-{
-  "events": [
-    {
-      "title": "A new event",
-      "image": "https://cdn.muenchen-p.de/fl_progressive,q_65/.imaging/stk/responsive/teaser300/dms/va-2016/muenchner-christkindlmarkt/christkindlmarkt-marienplat-logo-hp/document/christkindlmarkt-marienplat-logo-hp.jpg",
-      "date": "2022-10-01",
-      "description": "Some awesome event!",
-      "id": "2a42fcc4-ea21-4bdd-abf6-c40006dc66a9"
-    }
-  ],
-  "users": []
-}
+{"events":[{"title":"New event77","image":"https://apod.nasa.gov/apod/image/2110/LucyLaunchB_Kraus_2048.jpg","date":"2023-06-11","description":"trest","id":"3bbe4ef7-1f24-438b-85cf-fe6b37b7ee33"}],"users":[{"email":"dmitriy.khan@u-s.su","password":"$2a$12$m11frOmff6Ax2VS88I04mOZX3XyN.m3V0n1PzMmz2LTr0uyqNbLS2","id":"06a2b01a-6c6f-4390-98c3-3a2adea62c61"},{"email":"dmitriy.khan2@u-s.su","password":"$2a$12$zSU44B8Uboob1zBQDdJ5du7ZEznn9fZVh.rEp6GxVOdAAtnwCliq.","id":"01c4eacc-5e6a-4cb3-85c0-ba32aee39967"}]}
